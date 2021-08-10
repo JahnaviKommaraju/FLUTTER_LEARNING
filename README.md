@@ -1,6 +1,6 @@
 # mi_card_flutter
 
-A new Flutter project.
+slef bio card flutter project.
 
 ## Getting Started
 
